@@ -1,1 +1,3 @@
-This is new txt file wher we will perform git operations.
+is is new txt file wher we will perform git operations.
+ifowfujio
+This another line written by me
